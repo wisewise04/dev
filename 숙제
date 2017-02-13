@@ -1,0 +1,2 @@
+for X in range(3):
+	print(x)
